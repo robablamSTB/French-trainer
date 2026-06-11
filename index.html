@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>French Trainer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header-row">
+      <h1>French Trainer</h1>
+      <div id="scoreBox" class="score-box">
+        <div class="score-line">Correct: <span id="scoreCorrect">0</span> / <span id="scoreTotal">0</span></div>
+        <div class="score-line">Streak: <span id="scoreStreak">0</span></div>
+        <button id="resetScoreBtn" class="small">Réinitialiser</button>
+      </div>
+    </div>
+
+    <div class="controls">
+      <label for="tenseSelect">Tense</label>
+      <select id="tenseSelect"></select>
+
+      <label for="verbSelect">Verb</label>
+      <select id="verbSelect"></select>
+    </div>
+
+    <div class="exercise">
+      <label>Português</label>
+      <p id="ptSentence" class="pt">Clique sur "Suivant" pour commencer.</p>
+
+      <label for="answerInput">Traduction (français)</label>
+      <input id="answerInput" type="text" autocomplete="off" placeholder="Écrivez la traduction ici" />
+      <p class="hint">La ponctuation finale n'est pas nécessaire ; l'accentuation et les espaces comptent.</p>
+
+      <div class="buttons">
+        <button id="checkBtn">Vérifier</button>
+        <button id="revealBtn">Révéler</button>
+        <button id="nextBtn">Suivant</button>
+      </div>
+
+      <div id="feedback" class="feedback"></div>
+
+      <label for="notesInput" style="margin-top: 20px;">📝 Notes personnelles</label>
+      <textarea id="notesInput" placeholder="Ajouter vos notes pour cette leçon..." rows="4"></textarea>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
