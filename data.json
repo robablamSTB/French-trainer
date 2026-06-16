@@ -1,86 +1,2458 @@
 [
-  {"verb":"être","tense":"présent","pt":"Eu sou feliz.","fr":"Je suis heureux.","explanation":"Présent de 'être'."},
-  {"verb":"être","tense":"passé composé","pt":"Eu fui ao mercado.","fr":"Je suis allé au marché.","explanation":"Passé composé de 'être'."},
-  {"verb":"être","tense":"imparfait","pt":"Quando eu era criança, eu era feliz.","fr":"Quand j'étais enfant, j'étais heureux.","explanation":"Imparfait de 'être'."},
-  {"verb":"être","tense":"futur","pt":"Eu serei médico um dia.","fr":"Je serai médecin un jour.","explanation":"Futur simple de 'être'."},
-  {"verb":"être","tense":"conditionnel","pt":"Eu seria feliz se... ","fr":"Je serais heureux si...","explanation":"Conditionnel de 'être'."},
-  {"verb":"être","tense":"subjonctif","pt":"É importante que eu seja paciente.","fr":"Il est important que je sois patient.","explanation":"Subjonctif de 'être'."},
-
-  {"verb":"avoir","tense":"présent","pt":"Eu tenho um carro.","fr":"J'ai une voiture.","explanation":"Présent de 'avoir'."},
-  {"verb":"avoir","tense":"passé composé","pt":"Eu tive um problema ontem.","fr":"J'ai eu un problème hier.","explanation":"Passé composé de 'avoir'."},
-  {"verb":"avoir","tense":"imparfait","pt":"Quando eu era jovem, eu tinha tempo.","fr":"Quand j'étais jeune, j'avais le temps.","explanation":"Imparfait de 'avoir'."},
-  {"verb":"avoir","tense":"futur","pt":"Eu terei tempo amanhã.","fr":"J'aurai le temps demain.","explanation":"Futur de 'avoir'."},
-  {"verb":"avoir","tense":"conditionnel","pt":"Eu teria mais dinheiro se...","fr":"J'aurais plus d'argent si...","explanation":"Conditionnel de 'avoir'."},
-  {"verb":"avoir","tense":"subjonctif","pt":"É preciso que eu tenha paciência.","fr":"Il faut que j'aie de la patience.","explanation":"Subjonctif de 'avoir'."},
-
-  {"verb":"aller","tense":"présent","pt":"Eu vou ao cinema.","fr":"Je vais au cinéma.","explanation":"Présent de 'aller'."},
-  {"verb":"aller","tense":"passé composé","pt":"Eu fui ao mercado ontem.","fr":"Je suis allé au marché hier.","explanation":"Passé composé de 'aller'."},
-  {"verb":"aller","tense":"imparfait","pt":"Quando eu era criança, eu ia à escola a pé.","fr":"Quand j'étais enfant, j'allais à l'école à pied.","explanation":"Imparfait de 'aller'."},
-  {"verb":"aller","tense":"futur","pt":"Eu irei à França no próximo ano.","fr":"J'irai en France l'année prochaine.","explanation":"Futur de 'aller'."},
-  {"verb":"aller","tense":"conditionnel","pt":"Eu iria se pudesse.","fr":"J'irais si je pouvais.","explanation":"Conditionnel de 'aller'."},
-  {"verb":"aller","tense":"subjonctif","pt":"É importante que eu vá agora.","fr":"Il est important que j'aille maintenant.","explanation":"Subjonctif de 'aller'."},
-
-  {"verb":"faire","tense":"présent","pt":"Eu faço o trabalho.","fr":"Je fais le travail.","explanation":"Présent de 'faire'."},
-  {"verb":"faire","tense":"passé composé","pt":"Eu fiz a lição.","fr":"J'ai fait les devoirs.","explanation":"Passé composé de 'faire'."},
-  {"verb":"faire","tense":"imparfait","pt":"Quando eu era jovem, eu fazia esportes.","fr":"Quand j'étais jeune, je faisais du sport.","explanation":"Imparfait de 'faire'."},
-  {"verb":"faire","tense":"futur","pt":"Eu farei isso amanhã.","fr":"Je ferai cela demain.","explanation":"Futur de 'faire'."},
-  {"verb":"faire","tense":"conditionnel","pt":"Eu faria se pudesse.","fr":"Je ferais si je pouvais.","explanation":"Conditionnel de 'faire'."},
-  {"verb":"faire","tense":"subjonctif","pt":"É preciso que eu faça isso.","fr":"Il faut que je fasse cela.","explanation":"Subjonctif de 'faire'."},
-
-  {"verb":"dire","tense":"présent","pt":"Eu digo a verdade.","fr":"Je dis la vérité.","explanation":"Présent de 'dire'."},
-  {"verb":"dire","tense":"passé composé","pt":"Eu disse isso ontem.","fr":"J'ai dit cela hier.","explanation":"Passé composé de 'dire'."},
-  {"verb":"dire","tense":"imparfait","pt":"Ele dizia sempre a mesma coisa.","fr":"Il disait toujours la même chose.","explanation":"Imparfait de 'dire'."},
-  {"verb":"dire","tense":"futur","pt":"Eu direi mais tarde.","fr":"Je dirai plus tard.","explanation":"Futur de 'dire'."},
-  {"verb":"dire","tense":"conditionnel","pt":"Eu diria se soubesse.","fr":"Je dirais si je savais.","explanation":"Conditionnel de 'dire'."},
-  {"verb":"dire","tense":"subjonctif","pt":"É importante que ele diga a verdade.","fr":"Il est important qu'il dise la vérité.","explanation":"Subjonctif de 'dire'."},
-
-  {"verb":"pouvoir","tense":"présent","pt":"Eu posso ajudar.","fr":"Je peux aider.","explanation":"Présent de 'pouvoir'."},
-  {"verb":"pouvoir","tense":"passé composé","pt":"Eu pude terminar.","fr":"J'ai pu finir.","explanation":"Passé composé de 'pouvoir'."},
-  {"verb":"pouvoir","tense":"imparfait","pt":"Eu podia correr mais cedo.","fr":"Je pouvais courir avant.","explanation":"Imparfait de 'pouvoir'."},
-  {"verb":"pouvoir","tense":"futur","pt":"Eu poderei ajudar amanhã.","fr":"Je pourrai aider demain.","explanation":"Futur de 'pouvoir'."},
-  {"verb":"pouvoir","tense":"conditionnel","pt":"Eu poderia ir se tivesse tempo.","fr":"Je pourrais y aller si j'avais le temps.","explanation":"Conditionnel de 'pouvoir'."},
-  {"verb":"pouvoir","tense":"subjonctif","pt":"É necessário que eu possa falar.","fr":"Il faut que je puisse parler.","explanation":"Subjonctif de 'pouvoir'."},
-
-  {"verb":"vouloir","tense":"présent","pt":"Eu quero ir.","fr":"Je veux y aller.","explanation":"Présent de 'vouloir'."},
-  {"verb":"vouloir","tense":"passé composé","pt":"Eu quis ajudar.","fr":"J'ai voulu aider.","explanation":"Passé composé de 'vouloir'."},
-  {"verb":"vouloir","tense":"imparfait","pt":"Quando eu era criança, eu queria brinquedos.","fr":"Quand j'étais enfant, je voulais des jouets.","explanation":"Imparfait de 'vouloir'."},
-  {"verb":"vouloir","tense":"futur","pt":"Eu quererei isso mais tarde.","fr":"Je voudrai cela plus tard.","explanation":"Futur de 'vouloir'."},
-  {"verb":"vouloir","tense":"conditionnel","pt":"Eu gostaria de um café.","fr":"Je voudrais un café.","explanation":"Conditionnel de 'vouloir'."},
-  {"verb":"vouloir","tense":"subjonctif","pt":"É importante que ele queira participar.","fr":"Il est important qu'il veuille participer.","explanation":"Subjonctif de 'vouloir'."},
-
-  {"verb":"voir","tense":"présent","pt":"Eu vejo a casa.","fr":"Je vois la maison.","explanation":"Présent de 'voir'."},
-  {"verb":"voir","tense":"passé composé","pt":"Eu vi o filme.","fr":"J'ai vu le film.","explanation":"Passé composé de 'voir'."},
-  {"verb":"voir","tense":"imparfait","pt":"Eu via as estrelas à noite.","fr":"Je voyais les étoiles la nuit.","explanation":"Imparfait de 'voir'."},
-  {"verb":"voir","tense":"futur","pt":"Eu verei você amanhã.","fr":"Je te verrai demain.","explanation":"Futur de 'voir'."},
-  {"verb":"voir","tense":"conditionnel","pt":"Eu veria se estivesse lá.","fr":"Je verrais si j'étais là.","explanation":"Conditionnel de 'voir'."},
-  {"verb":"voir","tense":"subjonctif","pt":"É preciso que ele veja isto.","fr":"Il faut qu'il voie cela.","explanation":"Subjonctif de 'voir'."},
-
-  {"verb":"savoir","tense":"présent","pt":"Eu sei a resposta.","fr":"Je sais la réponse.","explanation":"Présent de 'savoir'."},
-  {"verb":"savoir","tense":"passé composé","pt":"Eu soube ontem.","fr":"J'ai su hier.","explanation":"Passé composé de 'savoir'."},
-  {"verb":"savoir","tense":"imparfait","pt":"Eu sabia a verdade.","fr":"Je savais la vérité.","explanation":"Imparct de 'savoir'."},
-  {"verb":"savoir","tense":"futur","pt":"Eu saberei depois.","fr":"Je saurai plus tard.","explanation":"Futur de 'savoir'."},
-  {"verb":"savoir","tense":"conditionnel","pt":"Eu saberia se perguntasse.","fr":"Je saurais si je demandais.","explanation":"Conditionnel de 'savoir'."},
-  {"verb":"savoir","tense":"subjonctif","pt":"É importante que ele saiba a verdade.","fr":"Il est important qu'il sache la vérité.","explanation":"Subjonctif de 'savoir'."},
-
-  {"verb":"devoir","tense":"présent","pt":"Eu devo estudar.","fr":"Je dois étudier.","explanation":"Présent de 'devoir'."},
-  {"verb":"devoir","tense":"passé composé","pt":"Eu tive que ir.","fr":"J'ai dû y aller.","explanation":"Passé composé de 'devoir'."},
-  {"verb":"devoir","tense":"imparfait","pt":"Eu devia estudar mais cedo.","fr":"Je devais étudier plus tôt.","explanation":"Imparct de 'devoir'."},
-  {"verb":"devoir","tense":"futur","pt":"Eu deverei terminar amanhã.","fr":"Je devrai finir demain.","explanation":"Futur de 'devoir'."},
-  {"verb":"devoir","tense":"conditionnel","pt":"Eu deveria ir agora.","fr":"Je devrais y aller maintenant.","explanation":"Conditionnel de 'devoir'."},
-  {"verb":"devoir","tense":"subjonctif","pt":"É importante que ele deva cumprir.","fr":"Il est important qu'il doive respecter.","explanation":"Subjonctif de 'devoir'."}
-]
-
-[
-  {"verb":"être","tense":"présent","pt":"Eu sou feliz.","fr":"Je suis heureux.","explanation":"Présent de 'être' — première personne du singulier."},
-  {"verb":"avoir","tense":"présent","pt":"Eu tenho um carro.","fr":"J'ai une voiture.","explanation":"Présent de 'avoir' — contraction: Je ai → J'ai."},
-  {"verb":"aller","tense":"futur","pt":"Eu vou ao mercado amanhã.","fr":"J'irai au marché demain.","explanation":"Futur simple de 'aller' — première personne du singulier."},
-  {"verb":"parler","tense":"imparfait","pt":"Quando eu era criança, eu falava muito.","fr":"Quand j'étais enfant, je parlais beaucoup.","explanation":"Imparfait pour une habitude passée."},
-  {"verb":"faire","tense":"passé composé","pt":"Eu fiz o dever de casa.","fr":"J'ai fait mes devoirs.","explanation":"Passé composé avec auxiliaire 'avoir'."},
-  {"verb":"finir","tense":"présent","pt":"Eu termino meu trabalho.","fr":"Je finis mon travail.","explanation":"Présent du verbe régulier '-ir'."},
-  {"verb":"être","tense":"conditionnel","pt":"Eu seria feliz se...","fr":"Je serais heureux si...","explanation":"Conditionnel présent de 'être'."},
-  {"verb":"aller","tense":"présent","pt":"Eu vou ao cinema.","fr":"Je vais au cinéma.","explanation":"Présent de 'aller'."},
-  {"verb":"parler","tense":"futur","pt":"Eu falarei com ela amanhã.","fr":"Je parlerai avec elle demain.","explanation":"Futur simple de 'parler'."},
-  {"verb":"avoir","tense":"imparfait","pt":"Quando eu era jovem, eu tinha tempo.","fr":"Quand j'étais jeune, j'avais le temps.","explanation":"Imparfait de 'avoir'."},
-  {"verb":"faire","tense":"subjonctif","pt":"É importante que eu faça isso.","fr":"Il est important que je fasse cela.","explanation":"Subjonctif présent de 'faire' après 'Il est important que'."},
-  {"verb":"finir","tense":"conditionnel","pt":"Eu terminaria mais cedo se pudesse.","fr":"Je finirais plus tôt si je pouvais.","explanation":"Conditionnel présent de 'finir'."}
+  {
+    "verb": "être",
+    "tense": "présent",
+    "pt": "Eu sou feliz.",
+    "fr": "Je suis heureux.",
+    "explanation": "Présent de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "passé composé",
+    "pt": "Eu fui ao mercado.",
+    "fr": "Je suis allé au marché.",
+    "explanation": "Passé composé de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "imparfait",
+    "pt": "Quando eu era criança, eu era feliz.",
+    "fr": "Quand j'étais enfant, j'étais heureux.",
+    "explanation": "Imparfait de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "futur",
+    "pt": "Eu serei médico um dia.",
+    "fr": "Je serai médecin un jour.",
+    "explanation": "Futur simple de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "conditionnel",
+    "pt": "Eu seria feliz se... ",
+    "fr": "Je serais heureux si...",
+    "explanation": "Conditionnel de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "subjonctif",
+    "pt": "É importante que eu seja paciente.",
+    "fr": "Il est important que je sois patient.",
+    "explanation": "Subjonctif de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "présent",
+    "pt": "Eu tenho um carro.",
+    "fr": "J'ai une voiture.",
+    "explanation": "Présent de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "passé composé",
+    "pt": "Eu tive um problema ontem.",
+    "fr": "J'ai eu un problème hier.",
+    "explanation": "Passé composé de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "imparfait",
+    "pt": "Quando eu era jovem, eu tinha tempo.",
+    "fr": "Quand j'étais jeune, j'avais le temps.",
+    "explanation": "Imparfait de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "futur",
+    "pt": "Eu terei tempo amanhã.",
+    "fr": "J'aurai le temps demain.",
+    "explanation": "Futur de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "conditionnel",
+    "pt": "Eu teria mais dinheiro se...",
+    "fr": "J'aurais plus d'argent si...",
+    "explanation": "Conditionnel de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "subjonctif",
+    "pt": "É preciso que eu tenha paciência.",
+    "fr": "Il faut que j'aie de la patience.",
+    "explanation": "Subjonctif de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "présent",
+    "pt": "Eu vou ao cinema.",
+    "fr": "Je vais au cinéma.",
+    "explanation": "Présent de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "passé composé",
+    "pt": "Eu fui ao mercado ontem.",
+    "fr": "Je suis allé au marché hier.",
+    "explanation": "Passé composé de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "imparfait",
+    "pt": "Quando eu era criança, eu ia à escola a pé.",
+    "fr": "Quand j'étais enfant, j'allais à l'école à pied.",
+    "explanation": "Imparfait de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "futur",
+    "pt": "Eu irei à França no próximo ano.",
+    "fr": "J'irai en France l'année prochaine.",
+    "explanation": "Futur de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "conditionnel",
+    "pt": "Eu iria se pudesse.",
+    "fr": "J'irais si je pouvais.",
+    "explanation": "Conditionnel de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "subjonctif",
+    "pt": "É importante que eu vá agora.",
+    "fr": "Il est important que j'aille maintenant.",
+    "explanation": "Subjonctif de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "présent",
+    "pt": "Eu faço o trabalho.",
+    "fr": "Je fais le travail.",
+    "explanation": "Présent de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "passé composé",
+    "pt": "Eu fiz a lição.",
+    "fr": "J'ai fait les devoirs.",
+    "explanation": "Passé composé de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "imparfait",
+    "pt": "Quando eu era jovem, eu fazia esportes.",
+    "fr": "Quand j'étais jeune, je faisais du sport.",
+    "explanation": "Imparfait de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "futur",
+    "pt": "Eu farei isso amanhã.",
+    "fr": "Je ferai cela demain.",
+    "explanation": "Futur de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "conditionnel",
+    "pt": "Eu faria se pudesse.",
+    "fr": "Je ferais si je pouvais.",
+    "explanation": "Conditionnel de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "subjonctif",
+    "pt": "É preciso que eu faça isso.",
+    "fr": "Il faut que je fasse cela.",
+    "explanation": "Subjonctif de 'faire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "présent",
+    "pt": "Eu digo a verdade.",
+    "fr": "Je dis la vérité.",
+    "explanation": "Présent de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "passé composé",
+    "pt": "Eu disse isso ontem.",
+    "fr": "J'ai dit cela hier.",
+    "explanation": "Passé composé de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "imparfait",
+    "pt": "Ele dizia sempre a mesma coisa.",
+    "fr": "Il disait toujours la même chose.",
+    "explanation": "Imparfait de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "futur",
+    "pt": "Eu direi mais tarde.",
+    "fr": "Je dirai plus tard.",
+    "explanation": "Futur de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "conditionnel",
+    "pt": "Eu diria se soubesse.",
+    "fr": "Je dirais si je savais.",
+    "explanation": "Conditionnel de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "dire",
+    "tense": "subjonctif",
+    "pt": "É importante que ele diga a verdade.",
+    "fr": "Il est important qu'il dise la vérité.",
+    "explanation": "Subjonctif de 'dire'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "présent",
+    "pt": "Eu posso ajudar.",
+    "fr": "Je peux aider.",
+    "explanation": "Présent de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "passé composé",
+    "pt": "Eu pude terminar.",
+    "fr": "J'ai pu finir.",
+    "explanation": "Passé composé de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "imparfait",
+    "pt": "Eu podia correr mais cedo.",
+    "fr": "Je pouvais courir avant.",
+    "explanation": "Imparfait de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "futur",
+    "pt": "Eu poderei ajudar amanhã.",
+    "fr": "Je pourrai aider demain.",
+    "explanation": "Futur de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "conditionnel",
+    "pt": "Eu poderia ir se tivesse tempo.",
+    "fr": "Je pourrais y aller si j'avais le temps.",
+    "explanation": "Conditionnel de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "pouvoir",
+    "tense": "subjonctif",
+    "pt": "É necessário que eu possa falar.",
+    "fr": "Il faut que je puisse parler.",
+    "explanation": "Subjonctif de 'pouvoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "présent",
+    "pt": "Eu quero ir.",
+    "fr": "Je veux y aller.",
+    "explanation": "Présent de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "passé composé",
+    "pt": "Eu quis ajudar.",
+    "fr": "J'ai voulu aider.",
+    "explanation": "Passé composé de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "imparfait",
+    "pt": "Quando eu era criança, eu queria brinquedos.",
+    "fr": "Quand j'étais enfant, je voulais des jouets.",
+    "explanation": "Imparfait de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "futur",
+    "pt": "Eu quererei isso mais tarde.",
+    "fr": "Je voudrai cela plus tard.",
+    "explanation": "Futur de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "conditionnel",
+    "pt": "Eu gostaria de um café.",
+    "fr": "Je voudrais un café.",
+    "explanation": "Conditionnel de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "vouloir",
+    "tense": "subjonctif",
+    "pt": "É importante que ele queira participar.",
+    "fr": "Il est important qu'il veuille participer.",
+    "explanation": "Subjonctif de 'vouloir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "présent",
+    "pt": "Eu vejo a casa.",
+    "fr": "Je vois la maison.",
+    "explanation": "Présent de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "passé composé",
+    "pt": "Eu vi o filme.",
+    "fr": "J'ai vu le film.",
+    "explanation": "Passé composé de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "imparfait",
+    "pt": "Eu via as estrelas à noite.",
+    "fr": "Je voyais les étoiles la nuit.",
+    "explanation": "Imparfait de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "futur",
+    "pt": "Eu verei você amanhã.",
+    "fr": "Je te verrai demain.",
+    "explanation": "Futur de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "conditionnel",
+    "pt": "Eu veria se estivesse lá.",
+    "fr": "Je verrais si j'étais là.",
+    "explanation": "Conditionnel de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "voir",
+    "tense": "subjonctif",
+    "pt": "É preciso que ele veja isto.",
+    "fr": "Il faut qu'il voie cela.",
+    "explanation": "Subjonctif de 'voir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "présent",
+    "pt": "Eu sei a resposta.",
+    "fr": "Je sais la réponse.",
+    "explanation": "Présent de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "passé composé",
+    "pt": "Eu soube ontem.",
+    "fr": "J'ai su hier.",
+    "explanation": "Passé composé de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "imparfait",
+    "pt": "Eu sabia a verdade.",
+    "fr": "Je savais la vérité.",
+    "explanation": "Imparct de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "futur",
+    "pt": "Eu saberei depois.",
+    "fr": "Je saurai plus tard.",
+    "explanation": "Futur de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "conditionnel",
+    "pt": "Eu saberia se perguntasse.",
+    "fr": "Je saurais si je demandais.",
+    "explanation": "Conditionnel de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "savoir",
+    "tense": "subjonctif",
+    "pt": "É importante que ele saiba a verdade.",
+    "fr": "Il est important qu'il sache la vérité.",
+    "explanation": "Subjonctif de 'savoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "présent",
+    "pt": "Eu devo estudar.",
+    "fr": "Je dois étudier.",
+    "explanation": "Présent de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "passé composé",
+    "pt": "Eu tive que ir.",
+    "fr": "J'ai dû y aller.",
+    "explanation": "Passé composé de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "imparfait",
+    "pt": "Eu devia estudar mais cedo.",
+    "fr": "Je devais étudier plus tôt.",
+    "explanation": "Imparct de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "futur",
+    "pt": "Eu deverei terminar amanhã.",
+    "fr": "Je devrai finir demain.",
+    "explanation": "Futur de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "conditionnel",
+    "pt": "Eu deveria ir agora.",
+    "fr": "Je devrais y aller maintenant.",
+    "explanation": "Conditionnel de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "devoir",
+    "tense": "subjonctif",
+    "pt": "É importante que ele deva cumprir.",
+    "fr": "Il est important qu'il doive respecter.",
+    "explanation": "Subjonctif de 'devoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "présent",
+    "pt": "Eu sou feliz.",
+    "fr": "Je suis heureux.",
+    "explanation": "Présent de 'être' — première personne du singulier.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "présent",
+    "pt": "Eu tenho um carro.",
+    "fr": "J'ai une voiture.",
+    "explanation": "Présent de 'avoir' — contraction: Je ai → J'ai.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "futur",
+    "pt": "Eu vou ao mercado amanhã.",
+    "fr": "J'irai au marché demain.",
+    "explanation": "Futur simple de 'aller' — première personne du singulier.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "parler",
+    "tense": "imparfait",
+    "pt": "Quando eu era criança, eu falava muito.",
+    "fr": "Quand j'étais enfant, je parlais beaucoup.",
+    "explanation": "Imparfait pour une habitude passée.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "passé composé",
+    "pt": "Eu fiz o dever de casa.",
+    "fr": "J'ai fait mes devoirs.",
+    "explanation": "Passé composé avec auxiliaire 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "finir",
+    "tense": "présent",
+    "pt": "Eu termino meu trabalho.",
+    "fr": "Je finis mon travail.",
+    "explanation": "Présent du verbe régulier '-ir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "être",
+    "tense": "conditionnel",
+    "pt": "Eu seria feliz se...",
+    "fr": "Je serais heureux si...",
+    "explanation": "Conditionnel présent de 'être'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "aller",
+    "tense": "présent",
+    "pt": "Eu vou ao cinema.",
+    "fr": "Je vais au cinéma.",
+    "explanation": "Présent de 'aller'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "parler",
+    "tense": "futur",
+    "pt": "Eu falarei com ela amanhã.",
+    "fr": "Je parlerai avec elle demain.",
+    "explanation": "Futur simple de 'parler'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "avoir",
+    "tense": "imparfait",
+    "pt": "Quando eu era jovem, eu tinha tempo.",
+    "fr": "Quand j'étais jeune, j'avais le temps.",
+    "explanation": "Imparfait de 'avoir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "faire",
+    "tense": "subjonctif",
+    "pt": "É importante que eu faça isso.",
+    "fr": "Il est important que je fasse cela.",
+    "explanation": "Subjonctif présent de 'faire' après 'Il est important que'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "verb": "finir",
+    "tense": "conditionnel",
+    "pt": "Eu terminaria mais cedo se pudesse.",
+    "fr": "Je finirais plus tôt si je pouvais.",
+    "explanation": "Conditionnel présent de 'finir'.",
+    "category": "Common verbs - all tenses"
+  },
+  {
+    "pt": "Se eu tiver tempo, eu te ligarei.",
+    "fr": "Si j'ai le temps, je t'appellerai.",
+    "verb": "appeler",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se você vier amanhã, almoçaremos juntos.",
+    "fr": "Si tu viens demain, nous déjeunerons ensemble.",
+    "verb": "déjeuner",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se fizer sol, iremos à praia.",
+    "fr": "Si le soleil brille, nous irons à la plage.",
+    "verb": "aller",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu terminar meu trabalho cedo, voltarei para casa mais cedo.",
+    "fr": "Si je termine mon travail tôt, je rentrerai plus tôt.",
+    "verb": "rentrer",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se você estudar regularmente, progredirá rapidamente.",
+    "fr": "Si tu étudies régulièrement, tu progresseras rapidement.",
+    "verb": "progresser",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se encontrarmos um bom restaurante, jantaremos lá.",
+    "fr": "Si nous trouvons un bon restaurant, nous y dînerons.",
+    "verb": "dîner",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se Ana Carolina vier para Bergen, passaremos tempo juntas.",
+    "fr": "Si Ana Carolina vient à Bergen, nous passerons du temps ensemble.",
+    "verb": "passer",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se Caio Mário corrigir meus erros, aprenderei mais rápido.",
+    "fr": "Si Caio Mário corrige mes erreurs, j'apprendrai plus vite.",
+    "verb": "apprendre",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu economizar o suficiente, viajarei para a França.",
+    "fr": "Si j'économise suffisamment, je voyagerai en France.",
+    "verb": "voyager",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se Sven estiver livre esta noite, assistiremos a um filme.",
+    "fr": "Si Sven est libre ce soir, nous regarderons un film.",
+    "verb": "regarder",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu compreender esta regra, vou utilizá-la amanhã.",
+    "fr": "Si je comprends cette règle, je l'utiliserai demain.",
+    "verb": "utiliser",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se reservarmos agora, pagaremos mais barato.",
+    "fr": "Si nous réservons maintenant, nous paierons moins cher.",
+    "verb": "payer",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se você me enviar o endereço, eu irei.",
+    "fr": "Si tu m'envoies l'adresse, je viendrai.",
+    "verb": "venir",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se a loja estiver aberta, comprarei pão.",
+    "fr": "Si le magasin est ouvert, j'achèterai du pain.",
+    "verb": "acheter",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu passar no exame, comemorarei com meus amigos.",
+    "fr": "Si je réussis l'examen, je fêterai avec mes amis.",
+    "verb": "fêter",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se tivermos tempo suficiente, visitaremos o museu.",
+    "fr": "Si nous avons assez de temps, nous visiterons le musée.",
+    "verb": "visiter",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se você praticar esporte regularmente, se sentirá melhor.",
+    "fr": "Si tu fais du sport régulièrement, tu te sentiras mieux.",
+    "verb": "se sentir",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu encontrar esse livro, vou comprá-lo.",
+    "fr": "Si je trouve ce livre, je l'achèterai.",
+    "verb": "acheter",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se o trem chegar na hora, estaremos em casa antes do meio-dia.",
+    "fr": "Si le train arrive à l'heure, nous serons à la maison avant midi.",
+    "verb": "être",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se eu continuar praticando francês todos os dias, falarei fluentemente um dia.",
+    "fr": "Si je continue à pratiquer le français chaque jour, je parlerai couramment un jour.",
+    "verb": "parler",
+    "tense": "futur simple",
+    "category": "Si + Présent → Futur simple",
+    "explanation": "Structure: si + présent, futur simple."
+  },
+  {
+    "pt": "Se Roberta tivesse mais tempo livre, ela leria mais romances franceses.",
+    "fr": "Si Roberta avait plus de temps libre, elle lirait davantage de romans français.",
+    "verb": "lire",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta morasse em Paris, falaria francês todos os dias.",
+    "fr": "Si Roberta habitait à Paris, elle parlerait français tous les jours.",
+    "verb": "parler",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Svein falasse francês, participaria das aulas com Roberta.",
+    "fr": "Si Svein parlait français, il participerait aux cours avec Roberta.",
+    "verb": "participer",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Ana Carolina morasse em Bergen, visitaria os pais todas as semanas.",
+    "fr": "Si Ana Carolina vivait à Bergen, elle rendrait visite à ses parents chaque semaine.",
+    "verb": "rendre visite",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Caio morasse em Bergen, Roberta tomaria um café com ele depois das aulas.",
+    "fr": "Si Caio habitait à Bergen, Roberta prendrait un café avec lui après les cours.",
+    "verb": "prendre",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta falasse francês tão bem quanto Caio, ela daria palestras em francês.",
+    "fr": "Si Roberta parlait le français aussi bien que Caio, elle donnerait des conférences en français.",
+    "verb": "donner",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Fran tivesse mais férias, viajaria mais frequentemente para a França.",
+    "fr": "Si Fran avait plus de vacances, elle voyagerait plus souvent en France.",
+    "verb": "voyager",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Célia tivesse um apartamento em Paris, passaria todos os verões lá.",
+    "fr": "Si Célia avait un appartement à Paris, elle y passerait tous les étés.",
+    "verb": "passer",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Adércio estudasse mais, progrediria mais rapidamente em francês.",
+    "fr": "Si Adércio étudiait davantage, il progresserait plus rapidement en français.",
+    "verb": "progresser",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Rita ensinasse francês, ajudaria frequentemente os alunos de Caio.",
+    "fr": "Si Rita enseignait le français, elle aiderait souvent les élèves de Caio.",
+    "verb": "aider",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta tivesse uma casa na Provença, passaria vários meses por ano lá.",
+    "fr": "Si Roberta avait une maison en Provence, elle y passerait plusieurs mois par an.",
+    "verb": "passer",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Bergen tivesse o clima do sul da França, muito mais turistas viriam.",
+    "fr": "Si Bergen avait le climat du sud de la France, beaucoup plus de touristes viendraient.",
+    "verb": "venir",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Divinópolis fosse mais perto de Bergen, Roberta iria frequentemente visitar Caio.",
+    "fr": "Si Divinópolis était plus proche de Bergen, Roberta irait souvent rendre visite à Caio.",
+    "verb": "aller",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Caio tivesse mais tempo, organizaria mais conversas em francês.",
+    "fr": "Si Caio avait plus de temps, il organiserait davantage de conversations en français.",
+    "verb": "organiser",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Ana Carolina trabalhasse em Bergen, almoçaria frequentemente com Roberta.",
+    "fr": "Si Ana Carolina travaillait à Bergen, elle déjeunerait souvent avec Roberta.",
+    "verb": "déjeuner",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta não trabalhasse amanhã, estudaria francês toda a manhã.",
+    "fr": "Si Roberta ne travaillait pas demain, elle étudierait le français toute la matinée.",
+    "verb": "étudier",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta pudesse voltar no tempo, começaria a aprender francês mais cedo.",
+    "fr": "Si Roberta pouvait retourner en arrière, elle commencerait à apprendre le français plus tôt.",
+    "verb": "commencer",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta tivesse mais confiança em si mesma, falaria mais frequentemente em francês com nativos.",
+    "fr": "Si Roberta avait davantage confiance en elle, elle parlerait plus souvent en français avec des natifs.",
+    "verb": "parler",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se os alunos de Caio se encontrassem todas as semanas, progrediriam ainda mais rapidamente.",
+    "fr": "Si les élèves de Caio se rencontraient chaque semaine, ils progresseraient encore plus vite.",
+    "verb": "progresser",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta continuasse a estudar com Caio por mais quatro anos, certamente alcançaria um nível próximo do C1.",
+    "fr": "Si Roberta continuait à étudier avec Caio pendant encore quatre ans, elle atteindrait certainement un niveau proche du C1.",
+    "verb": "atteindre",
+    "tense": "conditionnel présent",
+    "category": "Si + Imparfait → Conditionnel présent",
+    "explanation": "Structure: si + imparfait, conditionnel présent."
+  },
+  {
+    "pt": "Se Roberta tivesse começado a aprender francês há dez anos, ela teria falado fluentemente hoje.",
+    "fr": "Si Roberta avait commencé à apprendre le français il y a dix ans, elle aurait parlé couramment aujourd'hui.",
+    "verb": "parler",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Caio tivesse morado em Bergen, Roberta teria feito aulas presenciais durante quatro anos.",
+    "fr": "Si Caio avait habité à Bergen, Roberta aurait pris des cours en personne pendant quatre ans.",
+    "verb": "prendre",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Ana Carolina tivesse estudado em Bergen, teria passado mais tempo com os pais.",
+    "fr": "Si Ana Carolina avait étudié à Bergen, elle aurait passé plus de temps avec ses parents.",
+    "verb": "passer",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Svein falasse francês, teria participado das conversas com Caio.",
+    "fr": "Si Svein avait parlé français, il aurait participé aux conversations avec Caio.",
+    "verb": "participer",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse visitado Paris mais vezes, teria descoberto ainda mais bairros maravilhosos.",
+    "fr": "Si Roberta avait visité Paris plus souvent, elle aurait découvert encore plus de quartiers magnifiques.",
+    "verb": "découvrir",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse conhecido Fran antes, elas teriam viajado juntas para a França.",
+    "fr": "Si Roberta avait connu Fran plus tôt, elles auraient voyagé ensemble en France.",
+    "verb": "voyager",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Célia tivesse morado em Bergen, Roberta a teria visto muito mais vezes.",
+    "fr": "Si Célia avait habité à Bergen, Roberta l'aurait vue beaucoup plus souvent.",
+    "verb": "voir",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Adércio tivesse estudado todos os dias, teria progredido mais rapidamente em francês.",
+    "fr": "Si Adércio avait étudié tous les jours, il aurait progressé plus rapidement en français.",
+    "verb": "progresser",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Rita tivesse participado das aulas, teria conhecido todos os alunos de Caio.",
+    "fr": "Si Rita avait assisté aux cours, elle aurait rencontré tous les élèves de Caio.",
+    "verb": "rencontrer",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Caio tivesse organizado um encontro em Divinópolis, Roberta teria ido com prazer.",
+    "fr": "Si Caio avait organisé une rencontre à Divinópolis, Roberta y serait allée avec plaisir.",
+    "verb": "aller",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse visitado Budapeste antes, teria voltado lá várias vezes.",
+    "fr": "Si Roberta avait visité Budapest plus tôt, elle y serait retournée plusieurs fois.",
+    "verb": "retourner",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse tido mais férias, teria passado uma semana em Florença.",
+    "fr": "Si Roberta avait eu plus de vacances, elle aurait passé une semaine à Florence.",
+    "verb": "passer",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse encontrado uma passagem mais barata, teria visitado Florença no ano passado.",
+    "fr": "Si Roberta avait trouvé un vol moins cher, elle aurait visité Florence l'année dernière.",
+    "verb": "visiter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse tido mais tempo em Paris, teria visitado ainda mais museus.",
+    "fr": "Si Roberta avait eu davantage de temps à Paris, elle aurait visité encore plus de musées.",
+    "verb": "visiter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse passado mais um fim de semana na Bélgica, teria comprado ainda mais chocolate.",
+    "fr": "Si Roberta avait passé un week-end de plus en Belgique, elle aurait acheté encore plus de chocolat.",
+    "verb": "acheter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse descoberto essa chocolateria belga antes, teria comprado todos os seus presentes lá.",
+    "fr": "Si Roberta avait découvert cette chocolaterie belge plus tôt, elle y aurait acheté tous ses cadeaux.",
+    "verb": "acheter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse reservado uma mesa nesse restaurante, teria experimentado todas as sobremesas.",
+    "fr": "Si Roberta avait réservé une table dans ce restaurant, elle aurait goûté tous les desserts.",
+    "verb": "goûter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta soubesse que esse chocolate era tão bom, teria comprado mais.",
+    "fr": "Si Roberta avait su que ce chocolat était si bon, elle en aurait acheté davantage.",
+    "verb": "acheter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse tido mais espaço na mala, teria trazido mais especialidades da Bélgica.",
+    "fr": "Si Roberta avait eu plus de place dans sa valise, elle aurait rapporté plus de spécialités de Belgique.",
+    "verb": "rapporter",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Se Roberta tivesse conhecido Caio quando começou a estudar francês, teria progredido ainda mais rápido.",
+    "fr": "Si Roberta avait connu Caio quand elle a commencé le français, elle aurait progressé encore plus vite.",
+    "verb": "progresser",
+    "tense": "conditionnel passé",
+    "category": "Si + plus-que-parfait → conditionnel passé",
+    "explanation": "Structure: si + plus-que-parfait, conditionnel passé."
+  },
+  {
+    "pt": "Caio estava explicando uma regra de gramática quando Fran fez uma pergunta.",
+    "fr": "Caio expliquait une règle de grammaire quand Fran a posé une question.",
+    "verb": "expliquer",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Ana Carolina estava desenhando um projeto quando seu telefone tocou.",
+    "fr": "Ana Carolina dessinait un projet quand son téléphone a sonné.",
+    "verb": "dessiner",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Svein estava preparando o jantar quando Roberta voltou do trabalho.",
+    "fr": "Svein préparait le dîner quand Roberta est rentrée du travail.",
+    "verb": "préparer",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Célia estava fazendo compras quando encontrou uma amiga brasileira.",
+    "fr": "Célia faisait les courses quand elle a rencontré une amie brésilienne.",
+    "verb": "faire",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Adércio estava estudando francês quando Caio lhe enviou um exercício.",
+    "fr": "Adércio étudiait le français quand Caio lui a envoyé un exercice.",
+    "verb": "étudier",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Rita estava lendo um romance quando o gato pulou no sofá.",
+    "fr": "Rita lisait un roman quand le chat a sauté sur le canapé.",
+    "verb": "lire",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Fran estava passeando por Paris quando descobriu uma pequena livraria.",
+    "fr": "Fran se promenait dans Paris quand elle a découvert une petite librairie.",
+    "verb": "se promener",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Caio estava corrigindo tarefas quando Roberta lhe enviou uma mensagem.",
+    "fr": "Caio corrigeait des devoirs quand Roberta lui a envoyé un message.",
+    "verb": "corriger",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Roberta estava saboreando um chocolate belga quando uma amiga ligou para ela.",
+    "fr": "Roberta dégustait un chocolat belge quand une amie l'a appelée.",
+    "verb": "déguster",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Svein estava assistindo a uma partida quando a energia acabou.",
+    "fr": "Svein regardait un match quand l'électricité a été coupée.",
+    "verb": "regarder",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Ana Carolina estava voltando para casa quando encontrou um antigo colega.",
+    "fr": "Ana Carolina rentrait chez elle quand elle a rencontré un ancien camarade.",
+    "verb": "rentrer",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Célia estava visitando Florença quando encontrou um excelente restaurante.",
+    "fr": "Célia visitait Florence quand elle a trouvé un excellent restaurant.",
+    "verb": "visiter",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Adércio estava ouvindo um podcast em francês quando seu computador desligou.",
+    "fr": "Adércio écoutait un podcast en français quand son ordinateur s'est arrêté.",
+    "verb": "écouter",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Fran estava tirando fotos em Budapeste quando começou a chover.",
+    "fr": "Fran prenait des photos à Budapest quand il a commencé à pleuvoir.",
+    "verb": "prendre",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Rita estava preparando um bolo quando os convidados chegaram.",
+    "fr": "Rita préparait un gâteau quand des invités sont arrivés.",
+    "verb": "préparer",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Caio estava dirigindo para Divinópolis quando recebeu uma ligação de Rita.",
+    "fr": "Caio conduisait vers Divinópolis quand il a reçu un appel de Rita.",
+    "verb": "conduire",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Ana Carolina estava olhando os projetos de um prédio quando seu professor lhe escreveu.",
+    "fr": "Ana Carolina regardait les plans d'un bâtiment quand son professeur lui a écrit.",
+    "verb": "regarder",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Svein e Roberta estavam passeando em Bergen quando avistaram um arco-íris.",
+    "fr": "Svein et Roberta se promenaient dans Bergen quand ils ont aperçu un arc-en-ciel.",
+    "verb": "se promener",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Célia estava conversando com Fran quando Caio chegou à reunião.",
+    "fr": "Célia discutait avec Fran quand Caio est arrivé à la réunion.",
+    "verb": "discuter",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Os alunos de Caio estavam falando francês quando a conexão de Internet caiu.",
+    "fr": "Les élèves de Caio parlaient français quand la connexion Internet a disparu.",
+    "verb": "parler",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Eu estava dormindo quando o despertador tocou.",
+    "fr": "Je dormais quand le réveil a sonné.",
+    "verb": "dormir",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Estávamos comendo quando alguém bateu à porta.",
+    "fr": "Nous mangions quand quelqu'un a frappé à la porte.",
+    "verb": "manger",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Ela estava trabalhando quando seu chefe a chamou.",
+    "fr": "Elle travaillait quand son chef l'a appelée.",
+    "verb": "travailler",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Eles estavam viajando quando o voo deles foi cancelado.",
+    "fr": "Ils voyageaient quand leur vol a été annulé.",
+    "verb": "voyager",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Eu estava lendo quando recebi sua mensagem.",
+    "fr": "Je lisais quand j'ai reçu ton message.",
+    "verb": "lire",
+    "tense": "imparfait + passé composé",
+    "category": "Imparfait + Passé composé",
+    "explanation": "Structure: imparfait + passé composé."
+  },
+  {
+    "pt": "Quando Roberta terminar sua aula com Caio, ela assistirá a uma série em francês.",
+    "fr": "Quand Roberta aura terminé son cours avec Caio, elle regardera une série en français.",
+    "verb": "regarder",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Ana Carolina obtiver seu diploma, começará sua carreira de arquiteta.",
+    "fr": "Quand Ana Carolina aura obtenu son diplôme, elle commencera sa carrière d'architecte.",
+    "verb": "commencer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Assim que Svein terminar de preparar o jantar, nós nos sentaremos à mesa.",
+    "fr": "Dès que Svein aura préparé le dîner, nous passerons à table.",
+    "verb": "passer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Caio corrigir os exercícios, enviará seus comentários aos alunos.",
+    "fr": "Quand Caio aura corrigé les devoirs, il enverra ses commentaires aux élèves.",
+    "verb": "envoyer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que Fran reservar o hotel, comprará as passagens aéreas.",
+    "fr": "Après que Fran aura réservé l'hôtel, elle achètera les billets d'avion.",
+    "verb": "acheter",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Roberta terminar seu livro em francês, ela o discutirá com Caio.",
+    "fr": "Quand Roberta aura terminé son livre français, elle en discutera avec Caio.",
+    "verb": "discuter",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Assim que Ana Carolina encontrar um apartamento, convidará seus amigos.",
+    "fr": "Dès qu'Ana Carolina aura trouvé un appartement, elle invitera ses amis.",
+    "verb": "inviter",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Célia terminar seu trabalho, ligará para Roberta.",
+    "fr": "Quand Célia aura fini son travail, elle appellera Roberta.",
+    "verb": "appeler",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que Svein lavar o carro, descansará.",
+    "fr": "Après que Svein aura lavé la voiture, il se reposera.",
+    "verb": "reposer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Caio organizar o programa do curso, os alunos começarão os exercícios.",
+    "fr": "Quand Caio aura organisé le programme du cours, les élèves commenceront les exercices.",
+    "verb": "commencer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Roberta visitar Budapeste pela segunda vez, descobrirá ainda novos lugares.",
+    "fr": "Quand Roberta aura visité Budapest une deuxième fois, elle découvrira encore de nouveaux endroits.",
+    "verb": "découvrir",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que ela experimentar todos os chocolates belgas, escolherá o seu favorito.",
+    "fr": "Après qu'elle aura goûté tous les chocolats belges, elle choisira son préféré.",
+    "verb": "choisir",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Fran terminar sua visita a Florença, compartilhará suas fotos.",
+    "fr": "Quand Fran aura terminé sa visite de Florence, elle partagera ses photos.",
+    "verb": "partager",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Assim que Adércio compreender essa regra, a utilizará em suas conversas.",
+    "fr": "Dès qu'Adércio aura compris cette règle, il l'utilisera dans ses conversations.",
+    "verb": "utiliser",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Rita terminar a sobremesa, os convidados chegarão.",
+    "fr": "Quand Rita aura préparé le dessert, les invités arriveront.",
+    "verb": "arriver",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que Caio terminar seu dia de trabalho em Divinópolis, dará sua aula de francês.",
+    "fr": "Après que Caio aura terminé sa journée de travail à Divinópolis, il donnera son cours de français.",
+    "verb": "donner",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Roberta atingir o nível B2, preparará o exame C1.",
+    "fr": "Quand Roberta aura atteint le niveau B2, elle préparera l'examen C1.",
+    "verb": "préparer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Assim que Svein reservar as passagens, organizaremos a viagem.",
+    "fr": "Dès que Svein aura réservé les billets, nous organiserons le voyage.",
+    "verb": "organiser",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando Ana Carolina terminar seu projeto, o apresentará aos seus professores.",
+    "fr": "Quand Ana Carolina aura terminé son projet, elle le présentera à ses professeurs.",
+    "verb": "présenter",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que Roberta visitar Paris, Florença e Budapeste, escolherá sua cidade favorita.",
+    "fr": "Après que Roberta aura visité Paris, Florence et Budapest, elle choisira sa ville préférée.",
+    "verb": "choisir",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando eu terminar de trabalhar, voltarei para casa.",
+    "fr": "Quand j'aurai fini de travailler, je rentrerai à la maison.",
+    "verb": "rentrer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Assim que tivermos comido, sairemos para passear.",
+    "fr": "Dès que nous aurons mangé, nous sortirons nous promener.",
+    "verb": "sortir",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando você responder a esta mensagem, eu te ligarei.",
+    "fr": "Quand tu auras répondu à ce message, je t'appellerai.",
+    "verb": "appeler",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois que eu fizer as compras, prepararei o jantar.",
+    "fr": "Après que j'aurai fait les courses, je préparerai le dîner.",
+    "verb": "préparer",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Quando terminarmos a reunião, tomaremos um café.",
+    "fr": "Quand nous aurons terminé la réunion, nous prendrons un café.",
+    "verb": "prendre",
+    "tense": "futur antérieur + futur simple",
+    "category": "Futur antérieur + Futur simple",
+    "explanation": "Structure: futur antérieur + futur simple."
+  },
+  {
+    "pt": "Depois de terminar sua aula com Caio, Roberta assistiu a uma série em francês.",
+    "fr": "Après avoir terminé son cours avec Caio, Roberta a regardé une série en français.",
+    "verb": "regarder",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de ter trabalhado o dia inteiro, Svein descansou.",
+    "fr": "Après avoir travaillé toute la journée, Svein s'est reposé.",
+    "verb": "se reposer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de entregar seu projeto, Ana Carolina saiu com seus amigos.",
+    "fr": "Après avoir rendu son projet, Ana Carolina est sortie avec ses amis.",
+    "verb": "sortir",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de corrigir os exercícios, Caio respondeu às perguntas dos alunos.",
+    "fr": "Après avoir corrigé les exercices, Caio a répondu aux questions des élèves.",
+    "verb": "répondre",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de visitar Paris, Fran compartilhou suas fotos.",
+    "fr": "Après avoir visité Paris, Fran a partagé ses photos.",
+    "verb": "partager",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de conversar com Roberta, Célia decidiu voltar a estudar francês.",
+    "fr": "Après avoir parlé avec Roberta, Célia a décidé de reprendre le français.",
+    "verb": "décider",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de estudar durante duas horas, Adércio fez uma pausa.",
+    "fr": "Après avoir étudié pendant deux heures, Adércio a fait une pause.",
+    "verb": "faire",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de preparar o jantar, Rita arrumou a mesa.",
+    "fr": "Après avoir préparé le dîner, Rita a mis la table.",
+    "verb": "mettre",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de comprar chocolate belga, Roberta voltou para o hotel.",
+    "fr": "Après avoir acheté du chocolat belge, Roberta est rentrée à l'hôtel.",
+    "verb": "rentrer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de visitar Budapeste, Roberta começou a planejar sua próxima viagem.",
+    "fr": "Après avoir visité Budapest, Roberta a commencé à planifier son prochain voyage.",
+    "verb": "commencer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de ler seu romance, Fran ligou para uma amiga.",
+    "fr": "Après avoir lu son roman, Fran a appelé une amie.",
+    "verb": "appeler",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de terminar seu trabalho, Caio deu sua aula de francês.",
+    "fr": "Après avoir fini son travail, Caio a donné son cours de français.",
+    "verb": "donner",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de experimentar várias sobremesas, Svein escolheu sua favorita.",
+    "fr": "Après avoir goûté plusieurs desserts, Svein a choisi son préféré.",
+    "verb": "choisir",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de conhecer Florença, Roberta teve vontade de voltar.",
+    "fr": "Après avoir découvert Florence, Roberta a eu envie d'y retourner.",
+    "verb": "avoir",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de receber uma mensagem de Caio, Ana Carolina respondeu imediatamente.",
+    "fr": "Après avoir reçu un message de Caio, Ana Carolina lui a répondu immédiatement.",
+    "verb": "répondre",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de terminar seu livro em francês, Roberta discutiu sobre ele com Caio.",
+    "fr": "Après avoir terminé son livre français, Roberta en a discuté avec Caio.",
+    "verb": "discuter",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de tomar seu café, Célia começou a trabalhar.",
+    "fr": "Après avoir pris son café, Célia a commencé à travailler.",
+    "verb": "commencer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de passar alguns dias na Bélgica, Roberta trouxe muito chocolate.",
+    "fr": "Après avoir passé quelques jours en Belgique, Roberta a rapporté beaucoup de chocolat.",
+    "verb": "rapporter",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de assistir a um vídeo em francês, Adércio aprendeu novas expressões.",
+    "fr": "Après avoir regardé une vidéo en français, Adércio a appris de nouvelles expressions.",
+    "verb": "apprendre",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de estudar francês com Caio durante quatro anos, Roberta compreende muito melhor os romances franceses.",
+    "fr": "Après avoir étudié le français avec Caio pendant quatre ans, Roberta comprend beaucoup mieux les romans français.",
+    "verb": "comprendre",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de tomar banho, fui me deitar.",
+    "fr": "Après avoir pris une douche, je me suis couchée.",
+    "verb": "se coucher",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de almoçar, fomos passear.",
+    "fr": "Après avoir déjeuné, nous sommes allés nous promener.",
+    "verb": "aller",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de responder aos e-mails, ela começou sua reunião.",
+    "fr": "Après avoir répondu aux e-mails, elle a commencé sa réunion.",
+    "verb": "commencer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de fazer compras, ele voltou para casa.",
+    "fr": "Après avoir fait les courses, il est rentré chez lui.",
+    "verb": "rentrer",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de terminar a limpeza da casa, assistimos a um filme.",
+    "fr": "Après avoir terminé le ménage, nous avons regardé un film.",
+    "verb": "regarder",
+    "tense": "après avoir + participe passé",
+    "category": "Après avoir + participe passé",
+    "explanation": "Structure: après avoir + participe passé."
+  },
+  {
+    "pt": "Depois de chegar a Paris, Roberta enviou uma mensagem para Caio.",
+    "fr": "Après être arrivée à Paris, Roberta a envoyé un message à Caio.",
+    "verb": "envoyer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de voltar do trabalho, Roberta começou a estudar francês.",
+    "fr": "Après être rentrée du travail, Roberta a commencé à étudier le français.",
+    "verb": "commencer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar a Bergen, Caio admirou as montanhas.",
+    "fr": "Après être arrivé à Bergen, Caio a admiré les montagnes.",
+    "verb": "admirer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de ir a Florença, Roberta teve vontade de voltar.",
+    "fr": "Après être allée à Florence, Roberta a eu envie d'y retourner.",
+    "verb": "avoir",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar a Divinópolis, Fran ligou para seus amigos.",
+    "fr": "Après être arrivée à Divinópolis, Fran a appelé ses amis.",
+    "verb": "appeler",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de voltar para casa, Ana Carolina preparou o jantar.",
+    "fr": "Après être rentrée à la maison, Ana Carolina a préparé le dîner.",
+    "verb": "préparer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de sair do restaurante, Rita comprou um sorvete.",
+    "fr": "Après être sortie du restaurant, Rita a acheté une glace.",
+    "verb": "acheter",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar ao aeroporto, Svein despachou suas malas.",
+    "fr": "Après être arrivé à l'aéroport, Svein a enregistré ses bagages.",
+    "verb": "enregistrer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de ir à Bélgica, Roberta trouxe muito chocolate.",
+    "fr": "Après être allée en Belgique, Roberta a rapporté beaucoup de chocolat.",
+    "verb": "rapporter",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de voltar de Budapeste, Roberta mostrou suas fotos para Célia.",
+    "fr": "Après être revenue de Budapest, Roberta a montré ses photos à Célia.",
+    "verb": "montrer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de entrar na sala de aula, Adércio cumprimentou todos.",
+    "fr": "Après être entré dans la salle de classe, Adércio a salué tout le monde.",
+    "verb": "saluer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar à estação, Ana Carolina comprou sua passagem.",
+    "fr": "Après être arrivée à la gare, Ana Carolina a acheté son billet.",
+    "verb": "acheter",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de entrar no trem, Caio começou a ler.",
+    "fr": "Après être monté dans le train, Caio a commencé à lire.",
+    "verb": "commencer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de descer do ônibus, Célia caminhou até seu escritório.",
+    "fr": "Après être descendue du bus, Célia a marché jusqu'à son bureau.",
+    "verb": "marcher",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de passar alguns dias em Paris, Roberta falava francês com mais facilidade.",
+    "fr": "Après être restée quelques jours à Paris, Roberta parlait plus facilement français.",
+    "verb": "parler",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de partir de Bergen cedo pela manhã, Fran chegou a Paris antes do meio-dia.",
+    "fr": "Après être partie de Bergen tôt le matin, Fran est arrivée à Paris avant midi.",
+    "verb": "arriver",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de voltar a Florença, Roberta descobriu novos bairros.",
+    "fr": "Après être retournée à Florence, Roberta a découvert de nouveaux quartiers.",
+    "verb": "découvrir",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de vir à aula de Caio, Rita começou a gostar de francês.",
+    "fr": "Après être venue au cours de Caio, Rita a commencé à aimer le français.",
+    "verb": "commencer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegarem a Paris, Fran e Célia visitaram o Louvre.",
+    "fr": "Après être arrivées à Paris, Fran et Célia ont visité le Louvre.",
+    "verb": "visiter",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de irem a uma chocolateria belga, Roberta e Ana Carolina compraram chocolate demais.",
+    "fr": "Après être allées dans une chocolaterie belge, Roberta et Ana Carolina ont acheté trop de chocolat.",
+    "verb": "acheter",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de voltar para casa, tomei banho.",
+    "fr": "Après être rentrée chez moi, j'ai pris une douche.",
+    "verb": "prendre",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar ao escritório, ela preparou um café.",
+    "fr": "Après être arrivée au bureau, elle a préparé un café.",
+    "verb": "préparer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de sair do trabalho, ele encontrou seus amigos.",
+    "fr": "Après être sorti du travail, il a rejoint ses amis.",
+    "verb": "rejoindre",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de chegar ao hotel, deixamos nossas malas.",
+    "fr": "Après être arrivé à l'hôtel, nous avons déposé nos valises.",
+    "verb": "déposer",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Depois de saírem de férias, esqueceram suas preocupações.",
+    "fr": "Après être partis en vacances, ils ont oublié leurs soucis.",
+    "verb": "oublier",
+    "tense": "après être + participe passé",
+    "category": "Après être + participe passé",
+    "explanation": "Structure: après être + participe passé."
+  },
+  {
+    "pt": "Antes de ir à aula de Caio, Roberta sempre prepara suas perguntas.",
+    "fr": "Avant d'aller au cours de Caio, Roberta prépare toujours ses questions.",
+    "verb": "préparer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de começar o trabalho, Svein toma um café.",
+    "fr": "Avant de commencer son travail, Svein prend un café.",
+    "verb": "prendre",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de entregar seu projeto, Ana Carolina o revisa várias vezes.",
+    "fr": "Avant de rendre son projet, Ana Carolina le vérifie plusieurs fois.",
+    "verb": "vérifier",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de corrigir os exercícios, Caio relê as instruções.",
+    "fr": "Avant de corriger les exercices, Caio relit les consignes.",
+    "verb": "relire",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de visitar Paris, Fran prepara uma lista de lugares para conhecer.",
+    "fr": "Avant de visiter Paris, Fran prépare une liste de lieux à voir.",
+    "verb": "préparer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de partir para Bergen, Célia verifica a previsão do tempo.",
+    "fr": "Avant de partir pour Bergen, Célia vérifie la météo.",
+    "verb": "vérifier",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de estudar francês, Adércio desliga o celular.",
+    "fr": "Avant d'étudier le français, Adércio éteint son téléphone.",
+    "verb": "éteindre",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de preparar o jantar, Rita faz as compras.",
+    "fr": "Avant de préparer le dîner, Rita fait les courses.",
+    "verb": "faire",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de comprar chocolate belga, Roberta compara os preços.",
+    "fr": "Avant d'acheter du chocolat belge, Roberta compare les prix.",
+    "verb": "comparer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de reservar uma viagem para Budapeste, Roberta lê as avaliações dos viajantes.",
+    "fr": "Avant de réserver un voyage à Budapest, Roberta lit les avis des voyageurs.",
+    "verb": "lire",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de deixar Florença, Fran tira muitas fotos.",
+    "fr": "Avant de quitter Florence, Fran prend beaucoup de photos.",
+    "verb": "prendre",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de entrar na sala de aula, Caio cumprimenta os alunos.",
+    "fr": "Avant d'entrer dans la salle de classe, Caio salue les élèves.",
+    "verb": "saluer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de começar uma reunião, Svein verifica sua agenda.",
+    "fr": "Avant de commencer une réunion, Svein vérifie son agenda.",
+    "verb": "vérifier",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de responder a uma pergunta difícil, Ana Carolina pensa por alguns segundos.",
+    "fr": "Avant de répondre à une question difficile, Ana Carolina réfléchit quelques secondes.",
+    "verb": "réfléchir",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de escolher um restaurante, Célia olha o cardápio.",
+    "fr": "Avant de choisir un restaurant, Célia regarde le menu.",
+    "verb": "regarder",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de assistir a uma série, Roberta termina seus exercícios de francês.",
+    "fr": "Avant de regarder une série, Roberta termine ses exercices de français.",
+    "verb": "terminer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de ligar para Roberta, Caio prepara os temas da conversa.",
+    "fr": "Avant d'appeler Roberta, Caio prépare les sujets de conversation.",
+    "verb": "préparer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de partir para a Bélgica, Fran aprende algumas palavras em neerlandês.",
+    "fr": "Avant de partir en Belgique, Fran apprend quelques mots de néerlandais.",
+    "verb": "apprendre",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de comprar um livro em francês, Adércio lê algumas resenhas.",
+    "fr": "Avant d'acheter un livre français, Adércio lit quelques critiques.",
+    "verb": "lire",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de se deitar, Roberta sempre lê algumas páginas de um romance francês.",
+    "fr": "Avant de se coucher, Roberta lit toujours quelques pages d'un roman français.",
+    "verb": "lire",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de sair, fecho as janelas.",
+    "fr": "Avant de sortir, je ferme les fenêtres.",
+    "verb": "fermer",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de comer, lavamos as mãos.",
+    "fr": "Avant de manger, nous nous lavons les mains.",
+    "verb": "se laver",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de dirigir, ele verifica o GPS.",
+    "fr": "Avant de conduire, il vérifie son GPS.",
+    "verb": "vérifier",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de tomar uma decisão, ela pede conselho.",
+    "fr": "Avant de prendre une décision, elle demande conseil.",
+    "verb": "demander",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "Antes de dormir, coloco meu telefone no modo silencioso.",
+    "fr": "Avant de dormir, je mets mon téléphone en mode silencieux.",
+    "verb": "mettre",
+    "tense": "avant de + infinitif",
+    "category": "Avant de + infinitif",
+    "explanation": "Structure: avant de + infinitif."
+  },
+  {
+    "pt": "É preciso que Roberta pratique francês todos os dias.",
+    "fr": "Il faut que Roberta pratique le français chaque jour.",
+    "verb": "pratiquer",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de nécessité."
+  },
+  {
+    "pt": "Desejo que Ana Carolina tenha sucesso em todos os seus projetos.",
+    "fr": "Je souhaite qu'Ana Carolina réussisse tous ses projets.",
+    "verb": "réussir",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de souhait."
+  },
+  {
+    "pt": "Caio quer que seus alunos falem mais em francês.",
+    "fr": "Caio veut que ses élèves parlent davantage en français.",
+    "verb": "parler",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de volonté."
+  },
+  {
+    "pt": "Estou feliz que Svein me acompanhe a Paris.",
+    "fr": "Je suis contente que Svein m'accompagne à Paris.",
+    "verb": "accompagner",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression d'émotion."
+  },
+  {
+    "pt": "É importante que Célia chegue na hora.",
+    "fr": "Il est important que Célia arrive à l'heure.",
+    "verb": "arriver",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression d'importance."
+  },
+  {
+    "pt": "Gostaria que Adércio participasse mais frequentemente das conversas.",
+    "fr": "Je voudrais qu'Adércio participe plus souvent aux conversations.",
+    "verb": "participer",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de souhait."
+  },
+  {
+    "pt": "Rita está feliz que Caio ensine francês com paixão.",
+    "fr": "Rita est heureuse que Caio enseigne le français avec passion.",
+    "verb": "enseigner",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de joie."
+  },
+  {
+    "pt": "É preciso que reservemos o hotel antes da nossa viagem a Budapeste.",
+    "fr": "Il faut que nous réservions l'hôtel avant notre voyage à Budapest.",
+    "verb": "réserver",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de nécessité."
+  },
+  {
+    "pt": "Estou encantada que Fran visite Bergen neste verão.",
+    "fr": "Je suis ravie que Fran visite Bergen cet été.",
+    "verb": "visiter",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression d'émotion."
+  },
+  {
+    "pt": "Quero que Roberta leia mais romances franceses.",
+    "fr": "Je veux que Roberta lise davantage de romans français.",
+    "verb": "lire",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de volonté."
+  },
+  {
+    "pt": "Embora Bergen seja uma cidade chuvosa, Roberta a adora.",
+    "fr": "Bien que Bergen soit une ville pluvieuse, Roberta l'adore.",
+    "verb": "être",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après 'bien que'."
+  },
+  {
+    "pt": "Para que Ana Carolina tenha sucesso em seu projeto, ela precisa trabalhar regularmente.",
+    "fr": "Pour qu'Ana Carolina réussisse son projet, elle doit travailler régulièrement.",
+    "verb": "réussir",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après 'pour que'."
+  },
+  {
+    "pt": "Estou surpresa que Caio conheça tantas expressões francesas.",
+    "fr": "Je suis surprise que Caio connaisse autant d'expressions françaises.",
+    "verb": "connaître",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de surprise."
+  },
+  {
+    "pt": "É necessário que Svein tire alguns dias de descanso.",
+    "fr": "Il est nécessaire que Svein prenne quelques jours de repos.",
+    "verb": "prendre",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de nécessité."
+  },
+  {
+    "pt": "Estou feliz que Célia goste de chocolate belga tanto quanto eu.",
+    "fr": "Je suis heureuse que Célia aime le chocolat belge autant que moi.",
+    "verb": "aimer",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de joie."
+  },
+  {
+    "pt": "Prefiro que Adércio fale francês durante as aulas.",
+    "fr": "Je préfère qu'Adércio parle français pendant les cours.",
+    "verb": "parler",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de préférence."
+  },
+  {
+    "pt": "É preciso que Roberta termine seu livro antes de começar o próximo.",
+    "fr": "Il faut que Roberta finisse son livre avant de commencer le suivant.",
+    "verb": "finir",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de nécessité."
+  },
+  {
+    "pt": "Duvido que Fran encontre um chocolate melhor do que na Bélgica.",
+    "fr": "Je doute que Fran trouve un meilleur chocolat qu'en Belgique.",
+    "verb": "trouver",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de doute."
+  },
+  {
+    "pt": "Estou orgulhosa que Ana Carolina siga seus sonhos.",
+    "fr": "Je suis fière qu'Ana Carolina poursuive ses rêves.",
+    "verb": "poursuivre",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de fierté."
+  },
+  {
+    "pt": "Desejo que Roberta alcance em breve o nível C1 em francês.",
+    "fr": "Je souhaite que Roberta atteigne bientôt le niveau C1 en français.",
+    "verb": "atteindre",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de souhait."
+  },
+  {
+    "pt": "Preciso sair agora.",
+    "fr": "Il faut que je parte maintenant.",
+    "verb": "partir",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de nécessité."
+  },
+  {
+    "pt": "Quero que você venha.",
+    "fr": "Je veux que tu viennes.",
+    "verb": "venir",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de volonté."
+  },
+  {
+    "pt": "Estou feliz que você esteja aqui.",
+    "fr": "Je suis contente que tu sois ici.",
+    "verb": "être",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression d'émotion."
+  },
+  {
+    "pt": "É importante que estejamos prontos.",
+    "fr": "Il est important que nous soyons prêts.",
+    "verb": "être",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression d'importance."
+  },
+  {
+    "pt": "Prefiro que vocês esperem alguns minutos.",
+    "fr": "Je préfère que vous attendiez quelques minutes.",
+    "verb": "attendre",
+    "tense": "subjonctif présent",
+    "category": "Subjonctif présent",
+    "explanation": "Structure: subjonctif présent après expression de préférence."
+  },
+  {
+    "pt": "Estou feliz que Roberta tenha começado a aprender francês há quatro anos.",
+    "fr": "Je suis heureuse que Roberta ait commencé à apprendre le français il y a quatre ans.",
+    "verb": "commencer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Caio está feliz que seus alunos tenham participado ativamente da aula.",
+    "fr": "Caio est content que ses élèves aient participé activement au cours.",
+    "verb": "participer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou orgulhosa que Ana Carolina tenha concluído seu projeto com sucesso.",
+    "fr": "Je suis fière qu'Ana Carolina ait terminé son projet avec succès.",
+    "verb": "terminer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Svein está feliz que Roberta tenha encontrado um bom livro em francês.",
+    "fr": "Svein est heureux que Roberta ait trouvé un bon livre en français.",
+    "verb": "trouver",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou encantada que Fran tenha visitado Bergen neste verão.",
+    "fr": "Je suis ravie que Fran ait visité Bergen cet été.",
+    "verb": "visiter",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Célia tenha retomado seus estudos de francês.",
+    "fr": "Je suis contente que Célia ait repris ses études de français.",
+    "verb": "reprendre",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Caio está surpreso que Adércio tenha lido todo o romance em francês.",
+    "fr": "Caio est surpris qu'Adércio ait lu tout le roman en français.",
+    "verb": "lire",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Rita tenha conhecido os alunos de Caio.",
+    "fr": "Je suis heureuse que Rita ait rencontré les élèves de Caio.",
+    "verb": "rencontrer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Lamento que Roberta tenha esquecido sua câmera em Paris.",
+    "fr": "Je regrette que Roberta ait oublié son appareil photo à Paris.",
+    "verb": "oublier",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Svein tenha reservado o hotel a tempo.",
+    "fr": "Je suis contente que Svein ait réservé l'hôtel à temps.",
+    "verb": "réserver",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou encantada que Roberta tenha descoberto uma excelente chocolateria na Bélgica.",
+    "fr": "Je suis ravie que Roberta ait découvert une excellente chocolaterie en Belgique.",
+    "verb": "découvrir",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Ana Carolina tenha encontrado um apartamento de que gosta.",
+    "fr": "Je suis heureuse qu'Ana Carolina ait trouvé un appartement qui lui plaît.",
+    "verb": "trouver",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou surpresa que Caio já tenha visitado tantas cidades.",
+    "fr": "Je suis surprise que Caio ait déjà visité autant de villes.",
+    "verb": "visiter",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Fran tenha gostado de Florença tanto quanto eu.",
+    "fr": "Je suis contente que Fran ait apprécié Florence autant que moi.",
+    "verb": "apprécier",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Duvido que Adércio tenha compreendido todas as expressões do livro.",
+    "fr": "Je doute qu'Adércio ait compris toutes les expressions du livre.",
+    "verb": "comprendre",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé après expression de doute."
+  },
+  {
+    "pt": "Estou feliz que Célia tenha experimentado o chocolate belga.",
+    "fr": "Je suis heureuse que Célia ait goûté le chocolat belge.",
+    "verb": "goûter",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Lamento que Roberta tenha esperado tanto tempo antes de visitar Budapeste.",
+    "fr": "Je regrette que Roberta ait attendu si longtemps avant de visiter Budapest.",
+    "verb": "attendre",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé après expression de regret."
+  },
+  {
+    "pt": "Estou orgulhosa que Roberta tenha lido tantos romances franceses.",
+    "fr": "Je suis fière que Roberta ait lu autant de romans français.",
+    "verb": "lire",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Caio tenha ajudado seus alunos a progredir.",
+    "fr": "Je suis contente que Caio ait aidé ses élèves à progresser.",
+    "verb": "aider",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Roberta tenha continuado seus estudos de francês apesar de sua agenda ocupada.",
+    "fr": "Je suis heureuse que Roberta ait continué ses études de français malgré son emploi du temps chargé.",
+    "verb": "continuer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé (avoir au subjonctif + participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Ana Carolina tenha chegado a tempo.",
+    "fr": "Je suis heureuse qu'Ana Carolina soit arrivée à temps.",
+    "verb": "arriver",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé avec être (accord du participe passé)."
+  },
+  {
+    "pt": "Lamento que Fran tenha partido tão cedo.",
+    "fr": "Je regrette que Fran soit partie si tôt.",
+    "verb": "partir",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé avec être (accord du participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Célia tenha vindo à reunião.",
+    "fr": "Je suis contente que Célia soit venue à la réunion.",
+    "verb": "venir",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé avec être (accord du participe passé)."
+  },
+  {
+    "pt": "Estou feliz que Roberta tenha voltado a Paris.",
+    "fr": "Je suis heureuse que Roberta soit retournée à Paris.",
+    "verb": "retourner",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé avec être (accord du participe passé)."
+  },
+  {
+    "pt": "Estou surpresa que Svein já tenha voltado para casa.",
+    "fr": "Je suis surprise que Svein soit déjà rentré.",
+    "verb": "rentrer",
+    "tense": "subjonctif passé",
+    "category": "Subjonctif passé",
+    "explanation": "Structure: subjonctif passé avec être (accord du participe passé)."
+  }
 ]
