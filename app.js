@@ -595,7 +595,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Se fizer sol, iremos à praia.",
-    "fr": "Si le soleil brille, nous irons à la plage.",
+    "fr": "S’il fait beau, nous irons à la plage.",
     "verb": "aller",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -650,7 +650,7 @@ const EMBEDDED_DATA = [
     "explanation": "Structure: si + présent, futur simple."
   },
   {
-    "pt": "Se Sven estiver livre esta noite, assistiremos a um filme.",
+    "pt": "Se Svein estiver livre esta noite, assistiremos a um filme.",
     "fr": "Si Sven est libre ce soir, nous regarderons un film.",
     "verb": "regarder",
     "tense": "futur simple",
@@ -1063,7 +1063,7 @@ const EMBEDDED_DATA = [
     "verb": "expliquer",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Ana Carolina estava desenhando um projeto quando seu telefone tocou.",
@@ -1071,7 +1071,7 @@ const EMBEDDED_DATA = [
     "verb": "dessiner",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Svein estava preparando o jantar quando Roberta voltou do trabalho.",
@@ -1079,7 +1079,7 @@ const EMBEDDED_DATA = [
     "verb": "préparer",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Célia estava fazendo compras quando encontrou uma amiga brasileira.",
@@ -1087,7 +1087,7 @@ const EMBEDDED_DATA = [
     "verb": "faire",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Adércio estava estudando francês quando Caio lhe enviou um exercício.",
@@ -1095,7 +1095,7 @@ const EMBEDDED_DATA = [
     "verb": "étudier",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Rita estava lendo um romance quando o gato pulou no sofá.",
@@ -1103,7 +1103,7 @@ const EMBEDDED_DATA = [
     "verb": "lire",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Fran estava passeando por Paris quando descobriu uma pequena livraria.",
@@ -1111,7 +1111,7 @@ const EMBEDDED_DATA = [
     "verb": "se promener",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Caio estava corrigindo tarefas quando Roberta lhe enviou uma mensagem.",
@@ -1119,7 +1119,7 @@ const EMBEDDED_DATA = [
     "verb": "corriger",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Roberta estava saboreando um chocolate belga quando uma amiga ligou para ela.",
@@ -1127,7 +1127,7 @@ const EMBEDDED_DATA = [
     "verb": "déguster",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Svein estava assistindo a uma partida quando a energia acabou.",
@@ -1135,7 +1135,7 @@ const EMBEDDED_DATA = [
     "verb": "regarder",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Ana Carolina estava voltando para casa quando encontrou um antigo colega.",
@@ -1143,7 +1143,7 @@ const EMBEDDED_DATA = [
     "verb": "rentrer",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Célia estava visitando Florença quando encontrou um excelente restaurante.",
@@ -1151,7 +1151,7 @@ const EMBEDDED_DATA = [
     "verb": "visiter",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Adércio estava ouvindo um podcast em francês quando seu computador desligou.",
@@ -1159,7 +1159,7 @@ const EMBEDDED_DATA = [
     "verb": "écouter",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Fran estava tirando fotos em Budapeste quando começou a chover.",
@@ -1167,7 +1167,7 @@ const EMBEDDED_DATA = [
     "verb": "prendre",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Rita estava preparando um bolo quando os convidados chegaram.",
@@ -1175,7 +1175,7 @@ const EMBEDDED_DATA = [
     "verb": "préparer",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Caio estava dirigindo para Divinópolis quando recebeu uma ligação de Rita.",
@@ -1183,7 +1183,7 @@ const EMBEDDED_DATA = [
     "verb": "conduire",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Ana Carolina estava olhando os projetos de um prédio quando seu professor lhe escreveu.",
@@ -1191,7 +1191,7 @@ const EMBEDDED_DATA = [
     "verb": "regarder",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Svein e Roberta estavam passeando em Bergen quando avistaram um arco-íris.",
@@ -1199,7 +1199,7 @@ const EMBEDDED_DATA = [
     "verb": "se promener",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Célia estava conversando com Fran quando Caio chegou à reunião.",
@@ -1207,7 +1207,7 @@ const EMBEDDED_DATA = [
     "verb": "discuter",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Os alunos de Caio estavam falando francês quando a conexão de Internet caiu.",
@@ -1215,7 +1215,7 @@ const EMBEDDED_DATA = [
     "verb": "parler",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Eu estava dormindo quando o despertador tocou.",
@@ -1223,7 +1223,7 @@ const EMBEDDED_DATA = [
     "verb": "dormir",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Estávamos comendo quando alguém bateu à porta.",
@@ -1231,7 +1231,7 @@ const EMBEDDED_DATA = [
     "verb": "manger",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Ela estava trabalhando quando seu chefe a chamou.",
@@ -1239,7 +1239,7 @@ const EMBEDDED_DATA = [
     "verb": "travailler",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Eles estavam viajando quando o voo deles foi cancelado.",
@@ -1247,7 +1247,7 @@ const EMBEDDED_DATA = [
     "verb": "voyager",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Eu estava lendo quando recebi sua mensagem.",
@@ -1255,7 +1255,7 @@ const EMBEDDED_DATA = [
     "verb": "lire",
     "tense": "imparfait + passé composé",
     "category": "Imparfait + Passé composé",
-    "explanation": "Structure: imparfait + passé composé."
+    "explanation": "Structure: imparfait + passé composé. Português usa: 'estava + gerúndio' mas o Francês usa apenas o 'imparfait'."
   },
   {
     "pt": "Quando Roberta terminar sua aula com Caio, ela assistirá a uma série em francês.",
@@ -1275,8 +1275,8 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Assim que Svein terminar de preparar o jantar, nós nos sentaremos à mesa.",
-    "fr": "Dès que Svein aura préparé le dîner, nous passerons à table.",
-    "verb": "passer",
+    "fr": "Dès que Svein aura terminé de préparer le dîner, nous nous assiérons à table.",
+    "verb": "s'asseoir",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
     "explanation": "Structure: futur antérieur + futur simple."
@@ -1299,7 +1299,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Quando Roberta terminar seu livro em francês, ela o discutirá com Caio.",
-    "fr": "Quand Roberta aura terminé son livre français, elle en discutera avec Caio.",
+    "fr": "Quand Roberta aura terminé son livre en français, elle en discutera avec Caio.",
     "verb": "discuter",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
@@ -1371,7 +1371,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Quando Rita terminar a sobremesa, os convidados chegarão.",
-    "fr": "Quand Rita aura préparé le dessert, les invités arriveront.",
+    "fr": "Quand Rita aura terminé le dessert, les invités arriveront.",
     "verb": "arriver",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
@@ -1610,8 +1610,8 @@ const EMBEDDED_DATA = [
     "explanation": "Structure: après avoir + participe passé."
   },
   {
-    "pt": "Depois de estudar francês com Caio durante quatro anos, Roberta compreende muito melhor os romances franceses.",
-    "fr": "Après avoir étudié le français avec Caio pendant quatre ans, Roberta comprend beaucoup mieux les romans français.",
+    "pt": "Depois de estudar francês com Caio durante quatro anos, Roberta compreendeu muito melhor os romances franceses.",
+    "fr": "Après avoir étudié le français avec Caio pendant quatre ans, Roberta a beaucoup mieux compris les romans français.",
     "verb": "comprendre",
     "tense": "après avoir + participe passé",
     "category": "Après avoir + participe passé",
@@ -1770,8 +1770,8 @@ const EMBEDDED_DATA = [
     "explanation": "Structure: après être + participe passé."
   },
   {
-    "pt": "Depois de passar alguns dias em Paris, Roberta falava francês com mais facilidade.",
-    "fr": "Après être restée quelques jours à Paris, Roberta parlait plus facilement français.",
+    "pt": "Depois de ter passado alguns dias em Paris, Roberta falou francês com muito mais facilidade.",
+    "fr": "Après avoir passé quelques jours à Paris, Roberta a parlé français beaucoup plus facilement",
     "verb": "parler",
     "tense": "après être + participe passé",
     "category": "Après être + participe passé",
@@ -1843,8 +1843,8 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Depois de chegar ao hotel, deixamos nossas malas.",
-    "fr": "Après être arrivé à l'hôtel, nous avons déposé nos valises.",
-    "verb": "déposer",
+    "fr": "Après être arrivé à l'hôtel, nous avons laissé  nos valises.",
+    "verb": "laisser",
     "tense": "après être + participe passé",
     "category": "Après être + participe passé",
     "explanation": "Structure: après être + participe passé."
