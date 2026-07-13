@@ -651,7 +651,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Se Svein estiver livre esta noite, assistiremos a um filme.",
-    "fr": "Si Sven est libre ce soir, nous regarderons un film.",
+    "fr": "Si Svein est libre ce soir, nous regarderons un film.",
     "verb": "regarder",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -675,7 +675,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Se você me enviar o endereço, eu irei.",
-    "fr": "Si tu m'envoies l'adresse, je viendrai.",
+    "fr": "Si tu m'envoies l'adresse, j'irai.",
     "verb": "venir",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -731,7 +731,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Se eu continuar praticando francês todos os dias, falarei fluentemente um dia.",
-    "fr": "Si je continue à pratiquer le français chaque jour, je parlerai couramment un jour.",
+    "fr": "Si je continue à pratiquer le français tous les jours, je parlerai couramment un jour.",
     "verb": "parler",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -867,7 +867,7 @@ const EMBEDDED_DATA = [
   },
   {
     "pt": "Se Roberta pudesse voltar no tempo, começaria a aprender francês mais cedo.",
-    "fr": "Si Roberta pouvait retourner en arrière, elle commencerait à apprendre le français plus tôt.",
+    "fr": "Si Roberta pouvait remonter le temps, elle commencerait à apprendre le français plus tôt.",
     "verb": "commencer",
     "tense": "conditionnel présent",
     "category": "Si + Imparfait → Conditionnel présent",
