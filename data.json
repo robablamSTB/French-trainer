@@ -259,7 +259,7 @@
     "verb": "pouvoir",
     "tense": "imparfait",
     "pt": "Eu podia correr mais cedo.",
-    "fr": "Je pouvais courir avant.",
+    "fr": "Je pouvais courir plus tôt.",
     "explanation": "Imparfait de 'pouvoir'.",
     "category": "Common verbs - all tenses"
   },
@@ -593,7 +593,7 @@
   },
   {
     "pt": "Se fizer sol, iremos à praia.",
-    "fr": "Si le soleil brille, nous irons à la plage.",
+    "fr": "S’il fait beau, nous irons à la plage.",
     "verb": "aller",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -649,7 +649,7 @@
   },
   {
     "pt": "Se Sven estiver livre esta noite, assistiremos a um filme.",
-    "fr": "Si Sven est libre ce soir, nous regarderons un film.",
+    "fr": "Si Svein est libre ce soir, nous regarderons un film.",
     "verb": "regarder",
     "tense": "futur simple",
     "category": "Si + Présent → Futur simple",
@@ -1273,7 +1273,7 @@
   },
   {
     "pt": "Assim que Svein terminar de preparar o jantar, nós nos sentaremos à mesa.",
-    "fr": "Dès que Svein aura préparé le dîner, nous passerons à table.",
+    "fr": "Dès que Svein aura terminé de préparer le dîner, nous nous assiérons à table.",
     "verb": "passer",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
@@ -1297,7 +1297,7 @@
   },
   {
     "pt": "Quando Roberta terminar seu livro em francês, ela o discutirá com Caio.",
-    "fr": "Quand Roberta aura terminé son livre français, elle en discutera avec Caio.",
+    "fr": "Quand Roberta aura terminé son livre en français, elle en discutera avec Caio.",
     "verb": "discuter",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
@@ -1369,7 +1369,7 @@
   },
   {
     "pt": "Quando Rita terminar a sobremesa, os convidados chegarão.",
-    "fr": "Quand Rita aura préparé le dessert, les invités arriveront.",
+    "fr": "Quand Rita aura terminé le dessert, les invités arriveront.",
     "verb": "arriver",
     "tense": "futur antérieur + futur simple",
     "category": "Futur antérieur + Futur simple",
@@ -1608,8 +1608,8 @@
     "explanation": "Structure: après avoir + participe passé."
   },
   {
-    "pt": "Depois de estudar francês com Caio durante quatro anos, Roberta compreende muito melhor os romances franceses.",
-    "fr": "Après avoir étudié le français avec Caio pendant quatre ans, Roberta comprend beaucoup mieux les romans français.",
+    "pt": "Depois de estudar francês com Caio durante quatro anos, Roberta compreendeu muito melhor os romances franceses.",
+    "fr": "Après avoir étudié le français avec Caio pendant quatre ans, Roberta a beaucoup mieux compris les romans français.",
     "verb": "comprendre",
     "tense": "après avoir + participe passé",
     "category": "Après avoir + participe passé",
@@ -1768,8 +1768,8 @@
     "explanation": "Structure: après être + participe passé."
   },
   {
-    "pt": "Depois de passar alguns dias em Paris, Roberta falava francês com mais facilidade.",
-    "fr": "Après être restée quelques jours à Paris, Roberta parlait plus facilement français.",
+    "pt": "Depois de ter passado alguns dias em Paris, Roberta falou francês com muito mais facilidade.",
+    "fr": "Après avoir passé quelques jours à Paris, Roberta a parlé français beaucoup plus facilement.",
     "verb": "parler",
     "tense": "après être + participe passé",
     "category": "Après être + participe passé",
@@ -1841,8 +1841,8 @@
   },
   {
     "pt": "Depois de chegar ao hotel, deixamos nossas malas.",
-    "fr": "Après être arrivé à l'hôtel, nous avons déposé nos valises.",
-    "verb": "déposer",
+    "fr": "Après être arrivés à l'hôtel, nous avons laissé nos valises.",
+    "verb": "laisser",
     "tense": "après être + participe passé",
     "category": "Après être + participe passé",
     "explanation": "Structure: après être + participe passé."
@@ -2001,7 +2001,7 @@
   },
   {
     "pt": "Antes de comprar um livro em francês, Adércio lê algumas resenhas.",
-    "fr": "Avant d'acheter un livre français, Adércio lit quelques critiques.",
+    "fr": "Avant d'acheter un livre en français, Adércio lit quelques critiques.",
     "verb": "lire",
     "tense": "avant de + infinitif",
     "category": "Avant de + infinitif",
